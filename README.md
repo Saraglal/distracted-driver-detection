@@ -2,7 +2,7 @@
 This notebook contains code for detecting distracted driving behaviors using dashboard camera images. The project aims to improve road safety by automatically identifying drivers engaged in distracting activities, such as texting, using social media, or taking selfies while driving.
 
 ## Technologies Used
-- Python 3.x
+- Python 3.11
 - TensorFlow
 - NumPy
 - OpenCV (cv2)
